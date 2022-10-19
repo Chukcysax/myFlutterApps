@@ -130,7 +130,7 @@ Widget buildHeader({
             Spacer(),
             CircleAvatar(
               radius: 24,
-              backgroundColor: Color.fromRGBO(30, 60, 168, 1),
+              backgroundColor: Colors.blue,
               child: Icon(Icons.add_comment_outlined, color: Colors.white),
             )
           ],
